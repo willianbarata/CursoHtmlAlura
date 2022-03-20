@@ -35,6 +35,14 @@ h2{
     text-align: center;
 }
 
+ul{
+    display: inline-block;
+}
+
+.imagembeneficios{
+    width: 50%;
+}
+
 /*
     Utilizamos Hexadecimal
     RGB = Red Green Blue
