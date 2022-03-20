@@ -11,6 +11,25 @@ p{
 }
 
 em strong{
-    color: red;
+    color: #FF0000;
 }
 
+/*
+    Utilizamos Hexadecimal
+    RGB = Red Green Blue
+
+# _ _ _ _ _ _
+
+0 = ausência
+F = Máximo
+
+#000000
+#FFFFFF
+Vermelho
+#FF0000
+
+0 = ausência
+255 = Máximo
+RGB(255, 255, 255)
+
+*/
